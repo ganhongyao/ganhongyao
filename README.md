@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+
+  <h3>Hi there 👋 I'm Hong Yao.</h3>
 
 <!--
 **ganhongyao/ganhongyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+[![Gan Hong Yao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganhongyao&hide=stars&hide_title=true&count_private=true&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
