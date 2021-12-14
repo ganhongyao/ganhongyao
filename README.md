@@ -1,21 +1,15 @@
-<div align="center">
+<div>
 
-  <h3>Hi there 👋 I'm Hong Yao.</h3>
-
-<!--
-**ganhongyao/ganhongyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h1>Hi there 👋 I'm Hong Yao.</h1>
+  <div align="center">
   
 [![Gan Hong Yao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganhongyao&hide=stars&hide_title=true&count_private=true&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<div>
+
+  </div>
+  <h2>Find me around the web 🌎:</h2>
+  <ul>
+    <li>
+      Connect with me on <a href="https://www.linkedin.com/in/ganhongyao/">LinkedIn</a>!
+    </li>
+  </ul>
+</div>
